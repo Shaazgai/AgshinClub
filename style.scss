@@ -3,11 +3,11 @@
     --var-white: #fff;
     --var-medium-header: 32px;
 }
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
+// *{
+//     padding: 0;
+//     margin: 0;
+//     box-sizing: border-box;
+// }
 
 html {
     scroll-behavior: smooth;
@@ -128,7 +128,7 @@ body {
                             align-items: center;
                             justify-content: center;
                             object-fit: cover;
-                            margin-left: -24px;
+                            // margin-left: -24px;
                         }
                         span {
                             position: absolute;
