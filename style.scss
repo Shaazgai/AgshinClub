@@ -9,7 +9,6 @@ html {
     @media screen and (max-width: 1280px) {
         overflow-x: hidden;
     scroll-behavior: smooth;
-
     }
 }
 body {
@@ -96,11 +95,11 @@ body {
             //     background: var(--swiper-pagination-bullet-inactive-color,#000);
             //     opacity: var(--swiper-pagination-bullet-inactive-opacity, 1px);
             //   }
-              .swiper-pagination-bullet{
-                //   border: 1px solid yellow;
-                //   width: 5px;
-                //   height: 1vh;                
-              }
+            //   .swiper-pagination-bullet{
+            //     //   border: 1px solid yellow;
+            //     //   width: 5px;
+            //     //   height: 1vh;                
+            //   }
             &-slide {
                 text-align: center;
                 margin-top: 50px;
