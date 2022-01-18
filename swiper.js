@@ -1,3 +1,7 @@
+alert("Сайн байна уу?\n\nhello")
+
+
+
 const swiper = new Swiper('.swiper', {
     spaceBetween: 30,
     centeredSlides: true,

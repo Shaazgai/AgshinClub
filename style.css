@@ -135,7 +135,6 @@ body .main .swiper .swiper-wrapper .swiper-slide .photo img {
           justify-content: center;
   -o-object-fit: cover;
      object-fit: cover;
-  margin-left: -24px;
 }
 
 body .main .swiper .swiper-wrapper .swiper-slide .photo span {
